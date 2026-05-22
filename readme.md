@@ -1,4 +1,4 @@
-## LeetCode JavaScript Solutions
+# LeetCode JavaScript Solutions
 
 This repository contains my LeetCode problem-solving journey using JavaScript.
 
@@ -11,4 +11,4 @@ This repository contains my LeetCode problem-solving journey using JavaScript.
 - JavaScript (ES6+)
 
 ### Platform
-- LeetCode
+- [LeetCode](https://leetcode.com/u/SuronjitSutradhar/)
